@@ -1,3 +1,3 @@
 # branching_demo
 
-my new branck
+my new branch
